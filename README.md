@@ -29,7 +29,9 @@ The website is designed with a modern, interactive interface featuring smooth an
 
 # Portfolio Preview
 
-> 📸 **Portfolio GIF / Screenshot will be added here**
+<div align="center">
+<img src="assets/portfolio-preview.png" alt="Portfolio homepage preview" width="800">
+</div>
 
 ---
 
@@ -182,7 +184,7 @@ https://github.com/Tharunnxx
 
 🌐 **Portfolio**
 
-https://tharun-6fwlbs9tm-tharunnxxs-projects.vercel.app/
+https://tharun-c-portfolio.vercel.app/
 
 ---
 
