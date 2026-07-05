@@ -30,7 +30,7 @@ The website is designed with a modern, interactive interface featuring smooth an
 # Portfolio Preview
 
 <div align="center">
-<img src="assets/portfolio-preview.png" alt="Portfolio homepage preview" width="800">
+<img src="assets/images/portfolio-preview.png" alt="Portfolio homepage preview" width="800">
 </div>
 
 ---
