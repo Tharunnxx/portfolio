@@ -9,7 +9,7 @@ Building intelligent software that combines **Artificial Intelligence**, **Machi
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-000000?style=for-the-badge)](https://tharun-c-portfolio.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-View-2563EB?style=for-the-badge)](https://tharun-6fwlbs9tm-tharunnxxs-projects.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-View-2563EB?style=for-the-badge)](https://tharun-c-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharun-c-5651953b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-Tharunnxx-181717?style=for-the-badge&logo=github)](https://github.com/Tharunnxx)
 
